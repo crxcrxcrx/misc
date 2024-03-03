@@ -1,3 +1,3 @@
 # misc
 
-1. plugin/build为吉利学院课表插件
+1. Geely-timetable为吉利学院课表插件
